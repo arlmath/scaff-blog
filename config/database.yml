@@ -22,5 +22,4 @@ test:
 
 production:
   adapter: postgresql
-  pool: 5
   database: db_production
